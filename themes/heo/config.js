@@ -17,7 +17,7 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '作品集', url: '/tag/必看精选' },
+  HEO_HERO_CATEGORY_1: { title: '作品集', url: '/tag/作品集' },
   HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
   HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
