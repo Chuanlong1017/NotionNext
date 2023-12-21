@@ -36,7 +36,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://spectrum-jade-da4.notion.site/Article-Template-af1271a7745f496ebd36aed7b0356c8d?pvs=4', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
